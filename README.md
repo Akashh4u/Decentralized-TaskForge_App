@@ -24,5 +24,4 @@ Once you have pasted your private key and contract address in the .env file, sim
 node index.js
 ```
 
-and go to http://localhost:3000 to interact with the decentralized application.
 
