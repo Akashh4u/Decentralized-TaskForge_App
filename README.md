@@ -1,4 +1,4 @@
-# Decentralized to-do-application 
+# Decentralized-TaskForge_App
 
 
 To run the code, you need to run the following commands. 
